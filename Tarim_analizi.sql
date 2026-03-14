@@ -27,7 +27,7 @@ group by Season
 order by Ortalama desc
 
 
---3.İhracat ve Pazar Analizi--
+--3.Ãhracat ve Pazar Analizi--
 
 
 select
@@ -46,20 +46,20 @@ order by Toplam_Ihrac DESC
 
 select 
  case 
-  when Yield_Kg_Per_Hectare > 1500 then 'Yüksek Verim'
+  when Yield_Kg_Per_Hectare > 1500 then 'YÃ¼ksek Verim'
   when Yield_Kg_Per_Hectare > 1000 and Yield_Kg_Per_Hectare <=1500 then 'Orta Verim'
-  when Yield_Kg_Per_Hectare <= 1000 then 'Düşük Verim'
+  when Yield_Kg_Per_Hectare <= 1000 then 'DÃ¼Ã¾Ã¼k Verim'
   END AS Verimler
  ,COUNT(Yield_Kg_Per_Hectare) as Verim
 from dbo.oil_seeds_punjab_agricultural_data
 GROUP BY 
   case 
-    WHEN Yield_Kg_Per_Hectare > 1500 THEN 'Yüksek Verim'
+    WHEN Yield_Kg_Per_Hectare > 1500 THEN 'YÃ¼ksek Verim'
     WHEN Yield_Kg_Per_Hectare > 1000 AND Yield_Kg_Per_Hectare <= 1500 THEN 'Orta Verim'
-    WHEN Yield_Kg_Per_Hectare <= 1000 THEN 'Düşük Verim'
+    WHEN Yield_Kg_Per_Hectare <= 1000 THEN 'DÃ¼Ã¾Ã¼k Verim'
   END;
 
---5.Kategori Bazlı Bölgesel Üretim Performansı ve Sıralaması--
+--5.Kategori BazlÃ½ BÃ¶lgesel Ãœretim PerformansÃ½ ve SÃ½ralamasÃ½--
 
 select
    District_Name
