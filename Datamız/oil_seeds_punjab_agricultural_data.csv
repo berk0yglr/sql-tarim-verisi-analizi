@@ -1,0 +1,79 @@
+Year,Crop_Name,Crop_Type,District_Name,Area_Hectares,Production_Tonnes,Yield_Kg_Per_Hectare,Season,Temperature_Celsius_Avg,Rainfall_MM,Irrigation_Requirement_MM,Soil_Type,Market_Price_PKR_Per_Kg,Export_Status,Quality_Grade,Purity_Percent
+2020,Sunflower,Oilseed,Okara,12500,18750,1500,Spring,32.5,425,250,Sandy Loam,65,Exported,A,96.2
+2020,Sunflower,Oilseed,Jhang,11200,16240,1450,Spring,31.8,390,260,Loamy,63,Exported,A,95.8
+2020,Sunflower,Oilseed,Faisalabad,15000,22500,1500,Spring,33.2,410,240,Sandy Loam,65,Exported,A,96.5
+2020,Sunflower,Oilseed,Sahiwal,8900,11680,1312,Spring,32.1,380,270,Loamy,62,Local Market,B,94.2
+2020,Sunflower,Oilseed,Gujranwala,7500,9750,1300,Spring,31.5,415,265,Clay Loam,60,Local Market,B,93.8
+2020,Cotton Seed,Oilseed,Multan,22000,44000,2000,Summer,34.1,320,300,Clay Loam,45,Exported,A,97.5
+2020,Cotton Seed,Oilseed,Bahawalpur,18500,37000,2000,Summer,35.2,280,320,Sandy,44,Exported,A,96.8
+2020,Cotton Seed,Oilseed,Vehari,12300,24600,2000,Summer,34.8,310,310,Loamy,45,Local Market,B,95.5
+2020,Rape Seed,Oilseed,Sialkot,3200,2560,800,Winter,18.2,650,150,Sandy Loam,120,Exported,A,98.2
+2020,Rape Seed,Oilseed,Gujrat,2100,1680,800,Winter,17.9,620,160,Loamy,118,Local Market,B,96.8
+2020,Gram,Pulse,Okara,8500,8075,950,Winter,19.5,580,120,Sandy Loam,95,Exported,A,97.1
+2020,Gram,Pulse,Kasur,7200,6840,950,Winter,19.8,590,110,Loamy,96,Exported,A,97.4
+2020,Gram,Pulse,Sialkot,4500,3825,850,Winter,17.2,640,100,Clay Loam,92,Local Market,B,95.6
+2021,Sunflower,Oilseed,Okara,13200,19800,1500,Spring,32.8,450,250,Sandy Loam,72,Exported,A,96.5
+2021,Sunflower,Oilseed,Jhang,12000,17400,1450,Spring,32.1,410,260,Loamy,70,Exported,A,96.1
+2021,Sunflower,Oilseed,Faisalabad,16200,24300,1500,Spring,33.5,430,240,Sandy Loam,72,Exported,A,96.8
+2021,Sunflower,Oilseed,Sahiwal,9500,12350,1300,Spring,32.4,400,270,Loamy,68,Local Market,B,94.5
+2021,Sunflower,Oilseed,Gujranwala,8200,10660,1300,Spring,31.8,435,265,Clay Loam,66,Local Market,B,94.1
+2021,Cotton Seed,Oilseed,Multan,24500,49000,2000,Summer,34.4,340,300,Clay Loam,52,Exported,A,97.8
+2021,Cotton Seed,Oilseed,Bahawalpur,20000,40000,2000,Summer,35.5,300,320,Sandy,50,Exported,A,97.1
+2021,Cotton Seed,Oilseed,Vehari,13500,27000,2000,Summer,35.1,330,310,Loamy,51,Local Market,B,95.8
+2021,Rape Seed,Oilseed,Sialkot,3600,2880,800,Winter,18.5,680,150,Sandy Loam,125,Exported,A,98.5
+2021,Rape Seed,Oilseed,Gujrat,2400,1920,800,Winter,18.2,650,160,Loamy,123,Local Market,B,97.1
+2021,Gram,Pulse,Okara,9000,8550,950,Winter,19.8,600,120,Sandy Loam,105,Exported,A,97.4
+2021,Gram,Pulse,Kasur,7800,7410,950,Winter,20.1,610,110,Loamy,106,Exported,A,97.7
+2021,Gram,Pulse,Sialkot,5000,4250,850,Winter,17.5,660,100,Clay Loam,102,Local Market,B,95.9
+2022,Sunflower,Oilseed,Okara,14000,21000,1500,Spring,33.1,470,250,Sandy Loam,78,Exported,A,96.8
+2022,Sunflower,Oilseed,Jhang,12800,18560,1450,Spring,32.4,430,260,Loamy,76,Exported,A,96.4
+2022,Sunflower,Oilseed,Faisalabad,17000,25500,1500,Spring,33.8,450,240,Sandy Loam,78,Exported,A,97.1
+2022,Sunflower,Oilseed,Sahiwal,10200,13260,1300,Spring,32.7,420,270,Loamy,74,Local Market,B,94.8
+2022,Sunflower,Oilseed,Gujranwala,8800,11440,1300,Spring,32.1,455,265,Clay Loam,72,Local Market,B,94.4
+2022,Cotton Seed,Oilseed,Multan,26000,52000,2000,Summer,34.7,360,300,Clay Loam,58,Exported,A,98.1
+2022,Cotton Seed,Oilseed,Bahawalpur,21500,43000,2000,Summer,35.8,320,320,Sandy,56,Exported,A,97.4
+2022,Cotton Seed,Oilseed,Vehari,14500,29000,2000,Summer,35.4,350,310,Loamy,57,Local Market,B,96.1
+2022,Rape Seed,Oilseed,Sialkot,4000,3200,800,Winter,18.8,700,150,Sandy Loam,130,Exported,A,98.8
+2022,Rape Seed,Oilseed,Gujrat,2700,2160,800,Winter,18.5,670,160,Loamy,128,Local Market,B,97.4
+2022,Gram,Pulse,Okara,9500,9025,950,Winter,20.1,620,120,Sandy Loam,110,Exported,A,97.7
+2022,Gram,Pulse,Kasur,8200,7790,950,Winter,20.4,630,110,Loamy,111,Exported,A,98.0
+2022,Gram,Pulse,Sialkot,5500,4675,850,Winter,17.8,680,100,Clay Loam,107,Local Market,B,96.2
+2023,Sunflower,Oilseed,Okara,14800,22200,1500,Spring,33.4,490,250,Sandy Loam,85,Exported,A,97.1
+2023,Sunflower,Oilseed,Jhang,13200,19140,1450,Spring,32.7,450,260,Loamy,82,Exported,A,96.7
+2023,Sunflower,Oilseed,Faisalabad,18000,27000,1500,Spring,34.1,470,240,Sandy Loam,85,Exported,A,97.4
+2023,Sunflower,Oilseed,Sahiwal,10800,14040,1300,Spring,33.0,440,270,Loamy,80,Local Market,B,95.1
+2023,Sunflower,Oilseed,Gujranwala,9200,11960,1300,Spring,32.4,475,265,Clay Loam,78,Local Market,B,94.7
+2023,Cotton Seed,Oilseed,Multan,27500,55000,2000,Summer,35.0,380,300,Clay Loam,65,Exported,A,98.4
+2023,Cotton Seed,Oilseed,Bahawalpur,23000,46000,2000,Summer,36.1,340,320,Sandy,62,Exported,A,97.7
+2023,Cotton Seed,Oilseed,Vehari,15500,31000,2000,Summer,35.7,370,310,Loamy,64,Local Market,B,96.4
+2023,Rape Seed,Oilseed,Sialkot,4400,3520,800,Winter,19.1,720,150,Sandy Loam,138,Exported,A,99.1
+2023,Rape Seed,Oilseed,Gujrat,3000,2400,800,Winter,18.8,690,160,Loamy,135,Local Market,B,97.7
+2023,Gram,Pulse,Okara,10000,9500,950,Winter,20.4,640,120,Sandy Loam,115,Exported,A,98.0
+2023,Gram,Pulse,Kasur,8600,8170,950,Winter,20.7,650,110,Loamy,116,Exported,A,98.3
+2023,Gram,Pulse,Sialkot,6000,5100,850,Winter,18.1,700,100,Clay Loam,112,Local Market,B,96.5
+2024,Sunflower,Oilseed,Okara,15200,22800,1500,Spring,33.7,500,250,Sandy Loam,92,Exported,A,97.4
+2024,Sunflower,Oilseed,Jhang,13600,19740,1450,Spring,33.0,460,260,Loamy,89,Exported,A,97.0
+2024,Sunflower,Oilseed,Faisalabad,18500,27750,1500,Spring,34.4,480,240,Sandy Loam,92,Exported,A,97.7
+2024,Sunflower,Oilseed,Sahiwal,11200,14560,1300,Spring,33.3,450,270,Loamy,87,Local Market,B,95.4
+2024,Sunflower,Oilseed,Gujranwala,9600,12480,1300,Spring,32.7,485,265,Clay Loam,85,Local Market,B,95.0
+2024,Cotton Seed,Oilseed,Multan,28500,57000,2000,Summer,35.3,395,300,Clay Loam,72,Exported,A,98.7
+2024,Cotton Seed,Oilseed,Bahawalpur,24000,48000,2000,Summer,36.4,355,320,Sandy,68,Exported,A,98.0
+2024,Cotton Seed,Oilseed,Vehari,16200,32400,2000,Summer,36.0,385,310,Loamy,70,Local Market,B,96.7
+2024,Rape Seed,Oilseed,Sialkot,4800,3840,800,Winter,19.4,735,150,Sandy Loam,145,Exported,A,99.4
+2024,Rape Seed,Oilseed,Gujrat,3300,2640,800,Winter,19.1,705,160,Loamy,142,Local Market,B,98.0
+2024,Gram,Pulse,Okara,10500,9975,950,Winter,20.7,655,120,Sandy Loam,122,Exported,A,98.3
+2024,Gram,Pulse,Kasur,9000,8550,950,Winter,21.0,665,110,Loamy,123,Exported,A,98.6
+2024,Gram,Pulse,Sialkot,6400,5440,850,Winter,18.4,715,100,Clay Loam,118,Local Market,B,96.8
+2025,Sunflower,Oilseed,Okara,15600,23400,1500,Spring,34.0,510,250,Sandy Loam,98,Exported,A,97.7
+2025,Sunflower,Oilseed,Jhang,14000,20300,1450,Spring,33.3,470,260,Loamy,95,Exported,A,97.3
+2025,Sunflower,Oilseed,Faisalabad,19000,28500,1500,Spring,34.7,490,240,Sandy Loam,98,Exported,A,98.0
+2025,Sunflower,Oilseed,Sahiwal,11600,15080,1300,Spring,33.6,460,270,Loamy,93,Local Market,B,95.7
+2025,Sunflower,Oilseed,Gujranwala,10000,13000,1300,Spring,33.0,495,265,Clay Loam,91,Local Market,B,95.3
+2025,Cotton Seed,Oilseed,Multan,29500,59000,2000,Summer,35.6,410,300,Clay Loam,78,Exported,A,99.0
+2025,Cotton Seed,Oilseed,Bahawalpur,25000,50000,2000,Summer,36.7,365,320,Sandy,74,Exported,A,98.3
+2025,Cotton Seed,Oilseed,Vehari,17000,34000,2000,Summer,36.3,395,310,Loamy,76,Local Market,B,97.0
+2025,Rape Seed,Oilseed,Sialkot,5000,4000,800,Winter,19.7,750,150,Sandy Loam,152,Exported,A,99.7
+2025,Rape Seed,Oilseed,Gujrat,3500,2800,800,Winter,19.4,720,160,Loamy,148,Local Market,B,98.3
+2025,Gram,Pulse,Okara,11000,10450,950,Winter,21.0,670,120,Sandy Loam,128,Exported,A,98.6
+2025,Gram,Pulse,Kasur,9400,8930,950,Winter,21.3,680,110,Loamy,129,Exported,A,98.9
+2025,Gram,Pulse,Sialkot,6700,5695,850,Winter,18.7,730,100,Clay Loam,124,Local Market,B,97.1
